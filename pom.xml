@@ -6,8 +6,8 @@
 
     <groupId>io.github.mrdear</groupId>
     <artifactId>tinify-sdk</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <description>a Java client for tinify </description>
+    <version>0.0.1</version>
+    <description>a Java client for TinyPNG </description>
 
     <properties>
         <okhttp.version>3.11.0</okhttp.version>
